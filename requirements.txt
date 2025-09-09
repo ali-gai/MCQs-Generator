@@ -1,0 +1,13 @@
+# Core dependencies
+streamlit
+langchain
+openai
+huggingface-hub
+transformers
+sentence-transformers
+pytesseract
+Pillow
+langchain-groq
+python-dotenv
+PyPDF2
+reportlab
